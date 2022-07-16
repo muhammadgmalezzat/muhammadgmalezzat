@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm muhammad gmal</h1>
-<h3 align="center">i am engineering student and frontend developer</h3>
+<h3 align="center">i am an engineering student and frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadgmalezzat&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadgmalezzat" /> </p>
 
-- 🔭 I’m currently studing **Computer and Systems Engineereing**
+- 🔭 I’m currently studying **Computer and Systems Engineereing**
 
 - 🌱 I’m currently learning **frontend development**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [resume inprogress](resume inprogress)
 
-- ⚡ Fun fact **i love eating while studing**
+- ⚡ Fun fact **i love eating while studying**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
