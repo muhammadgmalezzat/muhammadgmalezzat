@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **muhammadgamal320@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1rfPIfuTToGT_Wiq8X2R-eZMRbphXGy8V/view?usp=share_link](https://drive.google.com/file/d/1FtjwuIJZ_T-0nIR6xponyghBe5ZJa_sI/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FtjwuIJZ_T-0nIR6xponyghBe5ZJa_sI/view?usp=sharing)
 
 - ⚡ Fun fact **i love eating while studying**
 
