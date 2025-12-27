@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<a href="https://your-portfolio.vercel.app">
+<a href="https://mg-portfolio-ruddy.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-64ffda?style=for-the-badge" />
 </a>
 <a href="https://mg-blog-sigma.vercel.app/" target="_blank">
